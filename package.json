@@ -1,0 +1,11 @@
+{
+  "name": "svg-remove-transform",
+  "version": "0.0.1",
+  "description": "a tool to remove transforms in svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
